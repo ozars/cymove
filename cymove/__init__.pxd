@@ -1,6 +1,6 @@
 # distutils: language = c++
 
-cdef extern from * namespace "cymove":
+cdef extern from * namespace "cymove" nogil:
     """
     #include <type_traits>
     #include <utility>
