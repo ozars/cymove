@@ -11,7 +11,7 @@ opts = SetupOptions()
 
 opts.add(
     name='cymove',
-    version='1.0.1',
+    version='1.0.2',
     author='Omer Ozarslan',
     url='https://github.com/ozars/cymove',
     description='std::move wrapper for cython',
