@@ -20,7 +20,7 @@ opts.add(
     license='MIT',
     packages=['cymove'],
     include_package_data=True,
-    package_data={'': ['*.pxd']},
+    package_data={'': ['LICENSE', 'README.md', 'cymove/__init__.pxd']},
     zip_safe=False,
     classifiers=[
         'Intended Audience :: Developers',

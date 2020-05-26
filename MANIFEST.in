@@ -1,0 +1,2 @@
+prune .venv
+include LICENSE README.md cymove/__init__.pxd
